@@ -7,6 +7,3 @@
 [submodule "vendor-local/compare-locales"]
 	path = vendor-local/compare-locales
 	url = git://github.com/Pike/compare-locales.git
-[submodule "vendor-local/compare-locales.js"]
-	path = vendor-local/compare-locales.js
-	url = git@github.com:l20n/compare-locales.js.git
